@@ -1,6 +1,6 @@
 # CPACC Preparation Study Materials
 
-![CPACC Logo](cpacc_logo.png)
+![CPACC Logo](https://www.accessibilityassociation.org/resource/IAAPLogo)
 
 Welcome to the CPACC Preparation Study Materials repository! This repository houses a collection of study materials specifically designed to help you prepare for the IAAP Certified Professional in Accessibility Core Competencies (CPACC) exam. 
 
