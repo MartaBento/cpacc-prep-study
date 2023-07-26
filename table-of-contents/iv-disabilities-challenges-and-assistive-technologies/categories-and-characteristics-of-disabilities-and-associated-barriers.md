@@ -1,4 +1,34 @@
-# Overview
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+  - [Visual Disabilities](#visual-disabilities)
+    - [Overview](#overview)
+      - [Barriers for People with Visual Disabilities](#barriers-for-people-with-visual-disabilities)
+  - [Auditory Disabilities](#auditory-disabilities)
+    - [Overview](#overview-1)
+      - [Barriers for People with Auditory Disabilities](#barriers-for-people-with-auditory-disabilities)
+  - [Deaf-blindness](#deaf-blindness)
+    - [Overview](#overview-2)
+      - [Barriers for People with Deaf-Blindness](#barriers-for-people-with-deaf-blindness)
+  - [Speech Disabilities](#speech-disabilities)
+  - [Overview](#overview-3)
+    - [Barriers for People with Speech Disabilities](#barriers-for-people-with-speech-disabilities)
+  - [Mobility, Flexibility, and Body Structure Disabilities](#mobility-flexibility-and-body-structure-disabilities)
+    - [Overview](#overview-4)
+      - [Barriers for People with Body Size or Shape Disabilities](#barriers-for-people-with-body-size-or-shape-disabilities)
+  - [Cognitive Disabilities](#cognitive-disabilities)
+    - [Overview](#overview-5)
+      - [Barriers for People with Cognitive Disabilities](#barriers-for-people-with-cognitive-disabilities)
+  - [Seizure Disabilities](#seizure-disabilities)
+    - [Overview](#overview-6)
+      - [Barriers for People with Seizure Disabilities](#barriers-for-people-with-seizure-disabilities)
+  - [Psychological / Psychiatric Disabilities](#psychological--psychiatric-disabilities)
+    - [Overview](#overview-7)
+      - [Barriers for People with Psychological / Social Disabilities](#barriers-for-people-with-psychological--social-disabilities)
+  - [Multiple / Compound Disabilities](#multiple--compound-disabilities)
+
+# Introduction
 
 There are many types of disabilities that affect people’s abilities to see, hear, speak, move, think and feel. This section provides information on the main categories and types of disabilities along with the barriers people with disabilities often face to full participation in society.
 

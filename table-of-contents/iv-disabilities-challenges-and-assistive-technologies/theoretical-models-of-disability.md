@@ -1,4 +1,4 @@
-# Overview
+# Table of Contents
 
 [Medical Model](#medical-model)
 [Social Model](#social-model)
@@ -7,6 +7,7 @@
 [Functional Solutions Model](#functional-solutions-model)
 [Social Identity or Cultural Affiliation Model](#social-identity-or-cultural-affiliation-model)
 [Charity Model](#charity-model)
+# Introduction
 
 Source: [IAAP CPACC - Body of Knowledge](/body-of-knowledge/IAAP_CPACC_BOK_March2020.pdf)
 
